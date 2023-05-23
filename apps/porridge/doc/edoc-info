@@ -1,3 +1,0 @@
-%% encoding: UTF-8
-{application,porridge}.
-{modules,[db,porridge_app,porridge_sup]}.
